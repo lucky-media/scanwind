@@ -1,4 +1,4 @@
-# scanwind
+# Scanwind
 
 Scanwind is an extension that allows Tailwind CSS developers to review their code on the fly. 
 
