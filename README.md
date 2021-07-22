@@ -2,7 +2,7 @@
 
 Scanwind is an extension that allows Tailwind CSS developers to review their code on the fly. 
 
-> Note: This repository is used for collecting Feature Requests.
+> Note: This repository is used for collecting Feature Requests and Bug Reporting.
 
 # 💡 Ideas & Feature Requests
 This repo is for collecting and discussing ideas and feature requests for Scanwind. Please check if an idea or FR has been opened already before starting a new thread (issue), but otherwise let's dig in!
